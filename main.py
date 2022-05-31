@@ -114,7 +114,7 @@ def task2():
     f1 = sm.cos(x + 0.5) - y - 2
     f2 = sm.sin(y) - 2 * x - 1
     eps = 0.0001
-    start = (-5, 3)
+    start = (-1, -1)
 
     print("    F_1(x) =", f1)
     print("    F_2(x) =", f2)
